@@ -1,1 +1,1 @@
-# LeonStaufer.github.io
+Redirects to homepage
